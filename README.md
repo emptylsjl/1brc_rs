@@ -6,7 +6,7 @@
 to print the result:
 
 ```
-cargo run
+cargo run --release
 ```
 to run the bench:
 
